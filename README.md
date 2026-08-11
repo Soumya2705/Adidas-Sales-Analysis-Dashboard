@@ -231,3 +231,23 @@ Adidas-Sales-Analysis-PowerBI/
 │   └── Adidas_Sales_Dashboard.png
 │
 └── README.md
+```
+
+---
+
+## 👨‍💻 Author
+
+**Soumyajit Saha**
+
+- **GitHub:** [Soumyajit Saha](https://github.com/Soumya2705)
+- **LinkedIn:** [Soumyajit Saha](https://www.linkedin.com/in/soumyajit-saha2705)
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+**Copyright © 2026 Soumyajit Saha**
+
+---
