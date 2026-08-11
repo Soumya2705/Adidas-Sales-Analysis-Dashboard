@@ -212,7 +212,7 @@ Some important insights from the dashboard include:
 
 ## 📷 Dashboard Preview
 
-![Adidas Sales Analysis Dashboard](Images/Adidas_Sales_Dashboard.png)
+![Adidas Sales Analysis Dashboard]([Images/Adidas_Sales_Dashboard.png](https://github.com/Soumya2705/Adidas-Sales-Analysis-Dashboard/blob/main/Adidas_Sales_Dashboard.png))
 
 ---
 
